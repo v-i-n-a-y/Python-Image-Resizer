@@ -5,7 +5,7 @@
 #
 # Copyright 2016-2022 Vinay Williams
 #
-# All Rights Reserved by Vinay Williams including but not limited to redistribution, modification and resale. If use of this code is made please acknowledge the author's contribution. A general citation is Williams, V. (2016) Image Resizer Source Code (Version *Insert Version Number here* [Source Code].) 
+# All Rights Reserved by Vinay Williams including but not limited to redistribution, modification and resale. If use of this code is made please acknowledge the author's contribution. A general citation is Williams, V. (2016) Image Resizer Source Code (Version *Insert Version Number here* [Source Code]. https://github.com/v-i-n-a-y/image_resizer) 
 #
 # Started: 12th October 2016
 #
