@@ -88,7 +88,7 @@ def image_resizer(imgs, height, width, save = False, plot = False):
         return resized_imgs
 
 if __name__ == "__main__":
-    print("Image Resizer\n\n")
+    print("Image Resizer\n\nRunning in file picker and saving mode\n")
     height = input("Resized height: ")
     width = input("\nResized width: ")
     print("\nResized file(s) located at: " + image_resizer("pick", height, width, save = True, plot = False))
